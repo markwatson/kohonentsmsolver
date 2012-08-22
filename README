@@ -1,0 +1,6 @@
+This is a traveling salesman solver using a kohonen neural network. Data
+files can be found at:
+http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/
+
+Additional information can be found at:
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
